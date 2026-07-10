@@ -1,16 +1,20 @@
 # 📊 Mobile Sales Power BI Dashboard
 
-An interactive **Business Intelligence Dashboard** built using **Power BI**, **Power Query**, **DAX**, and **Microsoft Excel** to analyze mobile sales performance, customer behavior, payment methods, and key business metrics through interactive visualizations.
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=flat-square)
+![DAX](https://img.shields.io/badge/DAX-Data%20Analysis-blue?style=flat-square)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Dashboard](https://img.shields.io/badge/Dashboard-Business%20Intelligence-red?style=flat-square)
 
 ---
 
 # 📌 Project Overview
 
-The **Mobile Sales Power BI Dashboard** is an end-to-end Business Intelligence project designed to transform raw sales data into meaningful business insights.
+The **Mobile Sales Power BI Dashboard** is an end-to-end **Business Intelligence** project built using **Power BI**, **Power Query**, **DAX**, and **Microsoft Excel** to transform raw sales data into meaningful business insights through interactive dashboards.
 
-This dashboard enables users to analyze sales performance, customer behavior, payment methods, city-wise sales distribution, mobile model performance, customer ratings, and monthly sales trends through interactive visualizations and dynamic filters.
+The dashboard provides a comprehensive view of mobile sales performance by analyzing key metrics such as **Total Sales, Total Quantity, Transactions, Customer Ratings, Payment Methods, Mobile Model Performance, City-wise Sales**, and **Monthly Sales Trends**.
 
-This project demonstrates practical knowledge of **Power BI, Power Query, DAX, Data Modeling, KPI Development, and Dashboard Design**.
+This project demonstrates practical skills in **Data Cleaning, Data Modeling, Power Query, DAX, KPI Development, Interactive Dashboard Design, and Business Intelligence Reporting**, helping convert raw business data into actionable insights for decision-making.
 
 ---
 
